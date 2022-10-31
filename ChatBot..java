@@ -38,8 +38,8 @@ public class Chatbot
 	  else if(User.equals("Tell me a joke?") || User.equals("Tell me any joke?"))
 	  {
 		  System.out.println("User Said: " + User);
-		  System.out.println("Bot Said: " + "What’s the best thing about Switzerland?" + 
-		  		"I don’t know, but the flag is a big plus.");
+		  System.out.println("Bot Said: " + "Whatâ€™s the best thing about Switzerland?" + 
+		  		"I donâ€™t know, but the flag is a big plus.");
 	  }
 	  else if(User.equals("Table"))
 	  {
